@@ -88,7 +88,7 @@ Untuk menjalankan prototipe sistem machine learning yang telah dikembangkan, ter
     streamlit run app.py
     ```
 2. Menjalankan di cloud Streamlit
-    - Prototype  machine learning dapat diakses melalui link berikut: https://amvstofa-analisisa-permasalahan-institusi-pendidikan-app-6thkce.streamlit.app/
+    - Prototype  machine learning dapat diakses melalui link berikut: https://submssion.streamlit.app/
 # Kesimpulan
 Proyek ini berhasil mengungkap faktor-faktor utama yang berkontribusi terhadap tingginya `Status Dropout` rate mahasiswa/i di Institusi Jaya Jaya Maju. Melalui analisis data dan pengembangan business dashboard, ditemukan bahwa  faktor akademik, finansial, dan demografis saling berkontribusi terhadap tingkat dropout. Temuan ini dapat menjadi dasar penting bagi pihak institusi dalam menyusun strategi intervensi yang lebih tepat sasaran, seperti peningkatan dukungan finansial, pemantauan akademik sejak dini, serta pendekatan berbasis data terhadap kelompok risiko tinggi.
 
